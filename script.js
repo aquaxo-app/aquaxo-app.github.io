@@ -1,5 +1,5 @@
 const SITE_CONFIG = {
-    appStoreUrl: "",
+    appStoreUrl: "https://apps.apple.com/app/tictactoe-aqua-xo/id6771479580",
     supportEmail: "raduoprea34@gmail.com"
 };
 
